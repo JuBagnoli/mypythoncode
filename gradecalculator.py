@@ -9,3 +9,5 @@ elif score > 60 < 70:
     print("2.1")
 else:
     print("1st")
+
+print("CHANGE")
